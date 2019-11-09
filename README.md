@@ -1,4 +1,4 @@
-# Telegram-grup-members-scrapper
+# Telegram-group-members-scrapper
 > Telegram bot to scrape usernames from public groups
 ___
 
