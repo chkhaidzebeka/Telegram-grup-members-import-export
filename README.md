@@ -11,4 +11,4 @@ ___
 pip3 install telethon
 ```
 2) **get telegram api at**
-![website](https://my.telegram.org/auth)
+[website](https://my.telegram.org/auth)
